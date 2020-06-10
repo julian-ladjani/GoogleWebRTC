@@ -15,11 +15,11 @@
     "README.md"
   ],
   "source": {
-    "http": "https://github.com/julian-ladjani/GoogleWebRTC/archive/1.0.3.tar.gz"
+    "http": "https://github.com/julian-ladjani/GoogleWebRTC/archive/1.0.4.tar.gz"
   },
   "summary": "WebRTC iOS SDK",
   "vendored_frameworks": [
     "WebRTC.framework"
   ],
-  "version": "1.0.3"
+  "version": "1.0.4"
 }
